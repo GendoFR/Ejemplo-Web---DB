@@ -1,0 +1,17 @@
+table{
+    margin-top:15px ;
+    margin-left: 44%;
+    text-align: center;
+    border-collapse: collapse;
+    background-color: lightcoral;
+    justify-content: center;
+}
+
+h1{
+    justify-content: center;
+    text-align: center;
+}
+
+img{
+    margin-left: 35%;
+}
