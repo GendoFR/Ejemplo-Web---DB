@@ -3,17 +3,16 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/ET36/Documents/NetBeansProjects/Ejemplo%20Web%20DB/src/java/Controller/consulta.java</file>
-            <file>file:/C:/Users/ET36/Documents/NetBeansProjects/Ejemplo%20Web%20DB/src/java/Controller/registro.java</file>
-            <file>file:/C:/Users/ET36/Documents/NetBeansProjects/Ejemplo%20Web%20DB/web/style.css</file>
-            <file>file:/C:/Users/ET36/Documents/NetBeansProjects/Ejemplo%20Web%20DB/src/java/Controller/muestraAlumnos.java</file>
-            <file>file:/C:/Users/ET36/Documents/NetBeansProjects/Ejemplo%20Web%20DB/web/index.jsp</file>
-            <file>file:/C:/Users/ET36/Documents/NetBeansProjects/Ejemplo%20Web%20DB/src/java/modelo/GestorDB.java</file>
-            <file>file:/C:/Users/ET36/Documents/NetBeansProjects/Ejemplo%20Web%20DB/src/java/modelo/Alumno.java</file>
-            <file>file:/C:/Users/ET36/Documents/NetBeansProjects/Ejemplo%20Web%20DB/web/consulta.jsp</file>
-            <file>file:/C:/Users/ET36/Documents/NetBeansProjects/Ejemplo%20Web%20DB/src/java/modelo/ConectarDB.java</file>
-            <file>file:/C:/Users/ET36/Documents/NetBeansProjects/Ejemplo%20Web%20DB/web/Insertar.jsp</file>
-            <file>file:/C:/Users/ET36/Documents/NetBeansProjects/Ejemplo%20Web%20DB/web/mostrarAlumnos.jsp</file>
+            <file>file:/D:/Proyectos/Ejemplo-Web---DB/src/java/modelo/Alumno.java</file>
+            <file>file:/D:/Proyectos/Ejemplo-Web---DB/src/java/Controller/consulta.java</file>
+            <file>file:/D:/Proyectos/Ejemplo-Web---DB/src/java/Controller/registro.java</file>
+            <file>file:/D:/Proyectos/Ejemplo-Web---DB/src/java/modelo/GestorDB.java</file>
+            <file>file:/D:/Proyectos/Ejemplo-Web---DB/web/muestraUnAlumno.jsp</file>
+            <file>file:/D:/Proyectos/Ejemplo-Web---DB/src/java/Controller/muestraAlumnos.java</file>
+            <file>file:/D:/Proyectos/Ejemplo-Web---DB/web/listaAlumnos.jsp</file>
+            <file>file:/D:/Proyectos/Ejemplo-Web---DB/src/java/modelo/ConectarDB.java</file>
+            <file>file:/D:/Proyectos/Ejemplo-Web---DB/web/mostrarAlumnos.jsp</file>
+            <file>file:/D:/Proyectos/Ejemplo-Web---DB/web/muestraDatos.jsp</file>
         </group>
     </open-files>
 </project-private>
